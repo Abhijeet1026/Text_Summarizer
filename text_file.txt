@@ -1,0 +1,734 @@
+The Project Gutenberg eBook of Geschwister Rosenbrock
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Geschwister Rosenbrock
+
+Author: Diedrich Speckmann
+
+Release date: May 16, 2025 [eBook #76104]
+
+Language: German
+
+Original publication: Berlin: Verlag von Martin Warneck, 1921
+
+Credits: The Online Distributed Proofreading Team at https://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK GESCHWISTER ROSENBROCK ***
+
+
+
+======================================================================
+
+                     Anmerkungen zur Transkription.
+
+Das Original ist in Fraktur gesetzt. Schreibweise und Interpunktion des
+Originaltextes wurden übernommen; lediglich offensichtliche Druckfehler
+sind stillschweigend korrigiert worden.
+
+Um die Übersicht zu verbessern, sind vom Bearbeiter Kapitelzahlen
+eingefügt worden.
+
+Worte in Antiqua sind so +gekennzeichnet+; gesperrte so: ~gesperrt~
+
+
+=======================================================================
+
+
+
+
+                              Geschwister
+                              Rosenbrock
+
+
+                                  Von
+
+
+                          Diedrich Speckmann
+
+
+                            [Illustration]
+
+
+
+
+                              Berlin 1921
+                       Verlag von Martin Warneck
+
+
+
+
+                            Erschienen 1911
+
+                   Der Gesamtauflage 62.-71. Tausend
+
+
+                        Alle Rechte vorbehalten
+
+
+
+
+               Gedruckt in Stuttgart bei J. F. Steinkopf
+
+
+
+
+Die Schulkinder von Brunsode lagen, des Schönschreibens beflissen,
+auf ihren Tischen. Oben knarrte die Feder über holziges Papier, unten
+rieb der Griffel knirschend in Schiefer. Ein lustiges Torffeuer,
+das im gußeisernen Kanonenofen bullerte, hatte die über Nacht
+erblühte Eisblumenherrlichkeit der Fenster schon zerstört und auf
+den in greller Januarsonne liegenden, von Eis- und Schneekristallen
+blitzenden Schulhof den Blick frei gemacht.
+
+Diesen begrenzten auf zwei Seiten Doppelreihen schlank aufgeschossener
+Tannen. Auf der dritten dagegen, dem Schulhause gegenüber, lief ein
+gut zwei Meter hoher Fahrdamm, der mit schimmernden Birken bestanden
+und von einem dunklen Schiffgraben begleitet in einer Länge von fast
+fünf Kilometern sich schnurgerade vor den vierzig »Stellen« der
+Moorkolonie Brunsode hinzog. Die Schule lag genau in der Mitte des
+Dorfes und war durch den Damm von der Reihe der Gehöfte getrennt.
+
+Für Herrn Christian Lenz, der seit mehr als drei Jahrzehnten in
+Brunsode die Kinder lehrte und durch seine Frau Engel, geborene
+Schnakenberg, sowie durch seine Tochter Käthe, verheiratete Kück,
+mit dem halben Dorf verschwägert und versippt war, bedeutete das
+von den Tannenwänden abgeschnittene Stück Damm eine recht angenehme
+Schaubühne, der er zuzeiten mehr Aufmerksamkeit schenkte, als für den
+Unterricht gut war.
+
+So saß er denn auch heute, während sein Völkchen schön schrieb,
+mit übergeschlagenen Beinen auf dem Katheder in seinem bequemen
+Binsenarmstuhl, spielte mit dem Lineal und ließ den etwas müden Blick
+seiner umschleierten Augen nach rechts zum Fenster hinauswandern.
+
+Eine winterlich verhüllte Frau ging vorüber, mit einem großen,
+weidengeflochtenen Henkelkorb am Arm. Hm, Lachmunds Minna macht
+Einkäufe für die große Gasterei, die sie und ihr Jan heut' abend geben
+wollen. Christian und Engel Lenz werden dabei nicht fehlen.
+
+Eine schwarzbunte Kuh, die über die Bühne getrieben wurde, streckte
+den Kopf in die Luft und brüllte, daß die ihr vom Maule fliegende
+weiße Atemwolke die in der Januarsonne blitzenden Birkenstämme
+kreuzte. Und schon hatte Herr Lenz ausgerechnet, wann Schwager Augusts
+beste Milchgeberin das Kalb haben würde, das er sich bereits zur
+Aufzucht gesichert hatte. Wenn's nur kein Bullenkalb wurde!
+
+In den gefrorenen Gleisen drüben jankte ein gelber zweiräderiger
+Wagen. Der Doktor? Wo mag der so früh schon gewesen sein? ... Der alte
+Jan Helmke, Nr. 23, ist auf Besserung ... Ach so, hm, Geschmargret
+Rosenbrock, Nr. 40 ... ja, ja ...
+
+Herrn Lenzens Blick kehrte in das Schulzimmer zurück und ruhte
+teilnehmend auf einem kleinen Mädchen mit rosigzarten Bäckchen und
+seidigem, von einem himmelblauen Band zusammengehaltenen Flachshaar,
+das vornan auf der untersten Bank saß und, das reizende Köpfchen ein
+wenig schief haltend, mit Hingebung seine Tafel bemalte. Darauf
+wanderte sein Auge nach rechts hinüber, zu einem etwa zehnjährigen
+Jungen, der eben eine Pause im Schreiben gemacht hatte und merkwürdig
+ernst vor sich hinblickte.
+
+Ein zu steil gehaltener Griffel kreischte ohrenzerreißend. Herr Lenz
+schloß die Augen und machte ein Märtyrergesicht. Dann aber raffte er
+sich auf, warf einen energischen Blick in die Klasse und rief: »Köpfe
+hoch, Finger gerade! Wie oft soll ich das noch sagen! ... Ich muß wohl
+mal kommen.«
+
+Diese Drohung war jedoch leichter ausgesprochen als ausgeführt. Das
+linke übergeschlagene Bein des guten Schulmannes hatte nämlich die
+günstige Gelegenheit benutzt, schnell ein bißchen einzuschlafen, und
+es dauerte eine Weile, bis es sich richtig wieder auf den Zweck seines
+Daseins besann.
+
+Als Herr Lenz endlich mit Vorsicht, da er jenem noch immer nicht recht
+traute, von seinem Katheder heruntertrat, schwenkten die Kleinen, um
+Beachtung ihres Geschreibsels bittend, ihm die Schiefertafeln entgegen.
+
+Er nahm die jenes kleinen Mädchens, das er vorhin still beobachtet
+hatte. Zwei große hellbraune Augen schauten aus einem zarten, feinen
+Gesichtchen ehrfürchtig und erwartungsvoll zu ihm auf und erglänzten
+freudig, als er wohlgefällig nickte und die Tafel mit den Worten
+zurückreichte: »Leidchen, du machst das kleine r wirklich schon
+recht nett.« Darauf legte er die Hand väterlich wohlwollend auf das
+weiche Haar des Kindes, dessen Wangen unter so viel Anerkennung sanft
+erröteten.
+
+Nachdem er sodann den Mittelgang abgeschritten, einige Ausstellungen
+gemacht, ein kleines r als Muster an die Wandtafel geschrieben
+und drei Torfsoden in die mit dem Rockschlippen geöffnete Ofentür
+geworfen hatte, stieg er wieder auf das Katheder, wo er sich mit dem
+angenehmen Gefühl erfüllter Pflicht in seinen Armstuhl und die vorige
+Beschaulichkeit zurücksinken ließ.
+
+Aber diesmal war die Ruhe nicht von Dauer. Auf dem frostharten
+Schulhof klirrten Holzschuhe, und Herr Lenz sah vom Damm her ein
+Mädchen eilig auf das Haus zukommen, das er aber in der winterlichen
+Vermummung nicht zu erkennen vermochte. Wahrscheinlich eine neue
+Einladung. Das ganze Dorf wollte die üblichen Gastereien bei dem
+harten Frost abmachen, und es ging jetzt fast Abend für Abend.
+
+Er begab sich hinaus, um der Sache auf den Grund zu gehen. Hinter
+ihm steckten die Deerns zu einem kleinen Schwatz die Köpfe zusammen,
+während ein paar Jungens eine Prügelei vom Zaun brachen.
+
+»Ruhe!« donnerte es plötzlich in den Lärm hinein, und in der Tür
+stehend, rief Herr Lenz in die jäh wiedergekehrte Stille: »Gerd!
+Leidchen! Ihr sollt nach Hause kommen. Schnell, schnell!«
+
+Nach wenigen Sekunden stieg ein stillernst dreinblickender Junge von
+etwa zehn Jahren aus seiner Bank und schob, den Tornister schief auf
+dem Rücken, durch die Schulstube. Der Schwester, die noch unter dem
+Tisch packte, gab er im Vorbeigehen einen Stoß mit dem Ellbogen, um
+sie zu größerer Eile anzuspornen.
+
+Draußen, auf dem Gang, half er ihr in die Winterjacke hinein. Dann
+liefen die Kinder, so schnell ihre Füße sie trugen, über den Schulhof
+und halblinks die Dammböschung hinauf, bis sie die Magd eingeholt
+hatten.
+
+»Was sollen wir?« fragte Gerd keuchend und seinen Lauf hemmend.
+
+»Mutter verlangt nach euch,« sagte das Mädchen, »macht, daß ihr
+heimkommt!«
+
+»Ich nehm' die Schlittschuh,« rief der Junge.
+
+Er hatte sie zu Weihnachten geschenkt bekommen und benutzte die
+Schulwege, sich in ihrem Gebrauch zu üben.
+
+Schon war er den Damm hinuntergesprungen und hockte auf dem zwischen
+diesem und dem Schiffgraben laufenden Leinpfad.
+
+Bald kratzte er, weitausgreifend und mit schlenkernden Armen, die
+glatte, schwarze Eisbahn dahin, vorbei an den Mündungen der schmäleren
+Gräben, die zwischen den einzelnen Kolonaten sich ins Hochmoor
+hinaufzogen, unter den vom Damm zu den Gehöften führenden Holzbrücken
+hindurch, im Sprung die trotz fortwährenden Wassergerinnsels fest
+umfrorenen Klappstaue nehmend. Einmal fiel er dabei hin, aber noch im
+Dahinrutschen kam er wieder auf die Beine. Nach kaum fünf Minuten lief
+er, die klappernden Schlittschuhe am Arm, über eine Obstwiese auf das
+hundert Schritt vom Damm zurückliegende lange, niedrige Strohdachhaus
+mit blaugestrichenem Fachwerk zu.
+
+Beta Rotermund von Nr. 39 leistete dem Nachbarhause in seiner
+Not treulich Hilfe. Als sie den Jungen über die Diele nach der
+Krankenstube stürzen sah, rief sie ihm zu, er möchte sich erst wärmen,
+ehe er hineinginge.
+
+Mit ausgebreiteten Armen über das offene Herdfeuer gebeugt, schüttelte
+er seine Kleidung, um die darin gefangene Kälte gegen die von den
+glühenden Torfbrocken aufsteigende Wärme auszutauschen. Dann streifte
+er den Tornister ab und ging auf Zehen in die Stube zur Linken.
+
+Als er vor der in die Wand gebauten Schlafbutze stand, deren Tür
+zurückgeschoben war, rief er leise: »Mutter!«
+
+Langsam öffneten sich die Augen in dem schmalen, spitzen Gesicht und
+sahen ihn groß an. Aber dann irrte ihr Blick suchend an ihm vorbei,
+und die fahlen Lippen fragten leise: »Wo ist Leidchen?«
+
+Gerd sagte, sie würde gleich nachkommen, er wäre nur auf
+Schlittschuhen vorangelaufen.
+
+Die Kranke machte eine Bewegung. Gerd, ihren Wunsch erratend, nahm
+ihre heiße, trockene Hand, jedoch ohne sie von der Bettdecke zu
+erheben.
+
+»Ich muß von euch ab, Kinder ... du hilfst dir wohl sacht, Gerd ...
+aber Leidchen ... Ich glaub', du bist ein guter, zuverlässiger Junge
+... verlaß deine Schwester nicht ... hab' ein Auge auf sie ... sie hat
+anders keinen als dich ...«
+
+Mühsam rangen sich ihr die Worte von den Lippen, und Gerd fühlte einen
+leisen Druck der kraftlosen Hand. Diesen mit Schonung erwidernd, sagte
+er, indem er einen Ausbruch seines Schmerzes gewaltsam zurückhielt:
+»Mutter, darauf kannst du dich fest verlassen.«
+
+Die Kranke bekam einen ihrer qualvollen Anfälle. Ihre Hand
+zurückziehend, wimmerte sie: »Kind, bet' mal!«
+
+Gerd schaute verlegen drein.
+
+Sie wiederholte ihren Wunsch dringender.
+
+Da faltete er die Hände, ließ den Kopf auf die Brust sinken und
+begann das Gesangbuchslied, das sie in der Schule gerade lernten.
+Dieselben Worte, die er heut' früh schrill dem Lehrer zugeschrien
+hatte, sprach er jetzt, wo die Not des Lebens sie ihm abverlangte,
+langsam, leise und andächtig: »Was Gott tut, das ist wohlgetan.« Mit
+geschlossenen Augen, die Zähne aufeinander gebissen, wiederholte die
+schwer Leidende: »... will ich ... ihm ... halten stille ... halten
+... stille!«
+
+Unterdessen trat das kleine Mädchen auf Socken in die Stube und
+näherte sich zögernd der Bettstatt.
+
+»Mein lüttjes süßes Leidchen,« rief die Kranke, den Blick erhebend,
+mit aufwallender Zärtlichkeit, »was hast du für schöne rote Backen!«
+und ihre weit offenen fieberdurstigen Augen schienen des Kindes
+Frische und Lieblichkeit zu trinken.
+
+Gerd nahm das frostrote Händchen der Schwester, rieb und drückte es
+warm und legte es zugleich mit seiner Rechten in die welke Hand, die
+auf der rotkarierten Decke lag. Krampfhaft umklammerte die fieberheiße
+die von warmem jungen Leben durchpulsten Kinderhände, wie um sie
+nimmer loszulassen. Doch bald erschlaffte sie unter Zuckungen. Die
+Kinder sahen sich hilflos an und zogen langsam die Hände zurück.
+
+Nach einer Weile trat Beta Rotermund in die Stube. Auf Wunsch der
+Kranken, deren Schmerzen jetzt wieder erträglicher waren, setzte sie
+sich dicht vor das Bett, indem die Kinder ihr Platz machten.
+
+Und nun traf Geschmargret Rosenbrock an dem Ohr der zu ihr
+herabgeneigten Nachbarin ihre letzten Anordnungen. Seit vorhin der
+Arzt noch einmal bei ihr gewesen, wußte sie ja, wie es um sie stand.
+
+Auf dem Leinenschrank läge ein geliehener Wollkratzer. Dieser müßte
+der Eigentümerin, Meta Frerks, Nr. 37, noch heute zurückgebracht
+werden.
+
+Bei ihrem letzten Kirchgang wäre sie dem Kaufmann Nolte in Grünmoor
+eine Mark und fünfundsechzig Pfennige schuldig geblieben. Frau
+Rotermund mußte die Summe dem Geldtäschchen unter dem Kopfkissen
+der Kranken entnehmen und sie bei nächster Gelegenheit zu bezahlen
+versprechen.
+
+Bis ihr Stiefsohn Jan, der Stellerbe, sich verheiratete, sollte die
+kürzlich verwitwete Häuslingsfrau Marie Engelken ihm den Haushalt
+führen. Sie hatte diese schon vor einigen Tagen an ihr Bett bitten
+lassen und mit ihr darüber gesprochen. Die Nachbarin versprach, die
+Augen offenzuhalten und vor allem achtzugeben, daß Gerd und Leidchen
+ihr Recht bekämen.
+
+Das Totenhemd läge in der Eichenlade auf dem Flett zu unterst ...
+Das rechts vom Herd hängende Stück vorjährigen Rauchfleisches möchte
+beim Dodenbeer zuerst mit aufgeschnitten werden ... In Leidchens
+Sonntagskleid wäre eine Naht aufgegangen, die müßte vorher noch genäht
+werden ...
+
+Frau Rotermund nickte, sobald sie einen dieser Wünsche, welche die
+Kranke nur mit großer Anstrengung verständlich machen konnte, halbwegs
+erraten hatte, und versprach zu guter Letzt noch einmal, alles aufs
+beste zu besorgen.
+
+Als die Uhr in der anderen Stube zwölf schlug, bat die Kranke, die
+Nachbarin möchte mit den Kindern zum Essen hinübergehen, die Magd
+würde das Mittagbrot wohl auf dem Tische haben. Wie die Frau noch
+einen Augenblick zögerte, wollte sie ungeduldig werden. Da gab Beta
+Rotermund mit den Augen Gerd und Leidchen einen Wink und schob die
+leise sich sträubenden Kinder vor sich her zur Tür hinaus.
+
+                   *       *       *       *       *
+
+Es war kurz nach Mitternacht, als Frau Rotermund sich in ihr wollenes
+Umschlagetuch hüllte, die Schultern zusammenzog und, unter der
+niedrigen Seitentür sich bückend, schuddernd in die sternklare,
+schneidend kalte Winternacht hinaustrat.
+
+Dem nachbarlichen Verkehr dient in Brunsode weniger der öffentliche,
+von der Häuserreihe etwas entfernte Fahrdamm als ein Pfad, der durch
+die Grenz- und Windschutzgehölze laufend und die trennenden Gräben auf
+schmalen Eichenbohlen überschreitend eine kürzere Verbindung zwischen
+den Gehöften herstellt.
+
+Diesem folgte die Frau, aber nicht, um beim eigenen Hause abzubiegen,
+sondern, nachdem sie ihr Gehöft überschritten hatte, machte sie erst
+vor den Stubenfenstern von Nr. 38 halt. Hier trommelte sie mit dem
+Knöchel des Mittelfingers gegen die Scheiben, daß es hart und hell
+durch die nächtliche Stille klang. Es dauerte nicht lange, so wurde
+von drinnen an den Eisblumen gekratzt. Da rief Beta durch die hohlen
+Hände gegen das Fenster: »Geschmargret ist eben eingeschlafen. Kommt
+und helft sie bekleiden!«
+
+Die gleiche Ansage machte sie den beiden nächsten Häusern in der
+Dorfreihe. Denn die vier »Nachbarn in Not und Tod« sind durch das
+ungeschriebene Gesetz altererbter Sitte zu solchem Dienst jede Tag-
+oder Nachtstunde verpflichtet, wenn jemand sich zum letzten Schlaf
+gestreckt hat.
+
+Als Beta Rotermund von ihrem Gange durch die frostklingende Nacht
+zurückgekehrt war, nahm sie das Abendmahlskleid der Verblichenen
+aus dem Schrank, holte ihr Totenhemd aus der Tiefe der Eichenlade
+herauf und legte ein paar Torfbrocken unter den Wasserkessel, den die
+Magd auf ihr Geheiß zu Feuer gebracht hatte. Darauf ging sie in die
+Wohnstube, um sich zu wärmen und die Frauen zu erwarten.
+
+In dem niedrigen, mit dicker warmer Luft angefüllten Raum, den eine
+Hängelampe vom mittleren Deckbalken her nur schwach erleuchtete,
+hockte die Familie beieinander. Jan, des verstorbenen Jan Rosenbrock
+Sohn aus erster Ehe, hatte die Fäuste tief in den Hosentaschen
+vergraben und machte, mit angezogenen Füßen auf einem gegen die Wand
+gekippten Binsenstuhl mehr liegend als sitzend, ein etwas verlegenes
+Gesicht, als ob er nicht recht wüßte, wie er sich in diesem Fall zu
+benehmen hätte. Das kleine Mädchen lehnte schlafend in einer Ecke
+der Ofenbank, Gerd saß steif und steil in der anderen, mit trockenen
+rotgeweinten Augen auf einen Fleck starrend. Trina, die Magd, hatte
+sich an den Tisch hingelehnt und kämpfte, häufig gähnend, mit der
+Müdigkeit.
+
+»Kinder, es wäre besser für euch, ihr ginget zu Bett,« mahnte Frau
+Rotermund mütterlich, indem sie sich einen Stuhl an den Ofen zog und
+die verklammten Hände an die warmen Gußplatten hielt. Aber niemand
+machte Miene, dem Rat zu folgen.
+
+Draußen wurden Schritte laut, und gleich darauf trat Meta Frerks
+von Nr. 37 in die Stube. Die rundliche kleine Frau hatte von Natur
+ein Paar graue, schalkhafte Augen, aber wenn Zeit und Gelegenheit
+es verlangten, konnten diese auch leicht und ergiebig weinen. Die
+blanken Tränen polterten ihr denn auch nur so über die kugeligen
+roten Backen, wie sie die Hingeschiedene beklagte und rühmte und die
+landläufigen Tröstungen spendete. Darauf pflanzte sie sich zwischen
+die beiden Kinder in die reichlich enge Bank, tätschelte mit der
+Linken dem Jungen die Knie und strich mit der Rechten dem erwachenden
+Mädchen die Haare aus den Augen, um ihm dann liebkosend über die
+rosig verschlafenen Bäckchen zu fahren. Das Kind hatte von solcher
+handgreiflichen Zärtlichkeit schnell genug und hielt zum Schutz beide
+Arme vor das Gesicht.
+
+Die bald darauf eintretende, bis auf die Nasenspitze vermummte
+Gestalt enthüllte sich als eine hagere Vierzigerin mit gelblichen,
+lederartigen Gesichtszügen und kleinen, starren Augen. Anna Wöltjen
+und ihr Klaus galten als die »dollsten Quäler« im ganzen Dorf, kamen
+aber doch nicht recht vorwärts. Sie waren Sklaven der Torfkuhle
+geworden; nicht einmal mehr des Sonntags kam der Torfstaub rein aus
+den tiefen Furchen ihrer stumpfen, abgearbeiteten Gesichter. Da der
+Torf all ihr Sinnen erfüllte, verpaßten sie in der Ackerwirtschaft
+meist die rechte Zeit und das gute Wetter, und manches Stück Vieh
+hatten sie in die Erde stecken müssen, weil sie es an sorgfältiger
+Pflege, vor allem auch an der nötigen Sauberkeit fehlen ließen. Anna
+Wöltjen murmelte ein paar Worte, die zu verstehen sich niemand Mühe
+gab, und sackte auf dem nächsten Stuhl nieder.
+
+»Daß Malwine Böschen noch gar nicht kommt!« sagte Beta Rotermund nach
+einer Weile, etwas ungeduldig zur Wanduhr aufblickend, »sie hat doch
+von uns allen noch die jüngsten Beine.«
+
+»Wenn eine erst jung verheiratet ist ...« entschuldigte die gutmütige
+Meta Frerks mit verstehendem Lächeln.
+
+»Na, ich sollt' meinen, aus den Honigwochen wären sie heraus,« sagte
+Anna Wöltjen mit ihrer blechernen Stimme.
+
+Meta Frerks hob horchend den Kopf: »Ich hör ihre Hollschen all, sie
+geht grad' über den Steg. Was das diese Nacht weit klingen tut!«
+
+Die schmucke, blühende Frau, die bald darauf eintrat, sah trotz des
+Ganges durch die schneidende Kälte ein wenig verschlafen aus und
+machte einen etwas verlegenen Eindruck. Erst im letzten Herbst hatte
+sie in das Dorf hineingeheiratet und sich noch nicht recht in der
+Nachbarschaft eingelebt.
+
+Nachdem Beta Rotermund das junge Volk noch einmal vermahnt hatte,
+endlich das nutzlose Herumsitzen aufzugeben, führte sie die Frauen
+dahin, wo die traurige Pflicht ihrer wartete.
+
+Diese warfen einen halb scheuen, halb neugierigen Blick auf das
+spitze, wächserne Gesicht im Bettschrank, hielten eine Vaterunserlänge
+die Köpfe auf die Brust gesenkt und die Hände gefaltet, dann machten
+sie sich schweigend an die Arbeit, indem sie durch Zeichen und
+Flüstern sich leicht verständigten.
+
+Als nach Brauch und Herkommen alles besorgt, auch das Zimmer gesäubert
+und der Fußboden mit weißem Sand bestreut war, betrachteten sie ihr
+Werk nicht ohne Befriedigung. Man fand, die gute Geschmargret sähe nun
+aus wie eine sanft und friedlich Schlafende.
+
+»Wenn einer erst so weit wäre ...« seufzte Meta Frerks, die
+lebenslustigste von allen, und sie fühlte in diesem Augenblick
+auch so, wie sie sprach. Als aber Beta Rotermund, die während der
+Aufräumungsarbeiten sich draußen am Herde zu schaffen gemacht hatte,
+fragte, ob sie jetzt in der andern Stube eine Tasse heißen Kaffee
+trinken wollten, nickte sie sehr erfreut und war die erste, die
+schnell und gern der Einladung folgte.
+
+Die Jugend des Hauses hatte sich inzwischen in ihre Butzen und Kammern
+zurückgezogen, und die Frauen waren froh, daß sie das Reich allein
+hatten. Nachdem sie einige Torfbrocken im Ofen nachgelegt und den
+Tisch dicht an diesen herangeschoben hatten, rückten sie so eng als
+möglich um die dampfende Kaffeekanne zusammen, die ihren duftenden
+braunen Labetrank in goldig umränderte Tassen ergoß. Es waren die
+feinsten des Hauses, die Meta Frerks der besonderen Gelegenheit wegen
+dem Glasschrank entnommen und schnell mit der Schürze ausgewischt
+hatte. Geschmargret Rosenbrock hatte sie von ihr selbst einst zur
+Hochzeit geschenkt bekommen. Mitten auf dem Tisch stand ein bunter
+Teller mit Butterkuchen, den Vater Rotermund der kranken Nachbarin
+gestern frisch von Worpswede mitgebracht hatte. Die hatte nicht mehr
+von ihm gekostet, aber jetzt fand das lockere, zuckerbestreute Gebäck
+seine Liebhaber, und die kundigen Zungen schmeckten schnell heraus,
+daß es vom Bäcker Soltmann stammte, der am schmackhaftesten zu backen
+pflegte. Der Kaffee wurde mit behaglichem Schlürfen getrunken. Nach
+Erfüllung der traurigen Pflicht war ein Stündchen freundnachbarlicher
+Geselligkeit gutes Recht und seelisches Bedürfnis. Man war ja Nachbar
+nicht bloß für Not und Tod, sondern gottlob auch für die angenehmeren
+Seiten des Daseins.
+
+Ach ja, das menschliche Leben ... Wer hätte gedacht, daß die gute
+Geschmargret so früh dahin mußte. Nach Ostern hatte sie noch im
+Torf geholfen und bei der zweiten Heuernte noch mit abgeladen. Es
+wurden mancherlei Erinnerungen wach: was sie bei dieser Gelegenheit
+gesagt, bei jener getan, wie sie sich in ihre Stellung als zweite
+Frau und Stiefmutter gefunden hatte, und dergleichen. Die einzelnen
+Züge ergaben zusammen das Bild einer schlichten, fleißigen, stets
+freundlich hilfsbereiten, von allen wohlgelittenen Frau.
+
+Endlich sprang die Unterhaltung auf die Kinder des Hauses über.
+
+Jan, der Erbe und jetzige Stellbesitzer ... Hmhm, Kopfschütteln,
+bedenkliche Mienen. Man konnte sich nicht verhehlen, daß er in den
+letzten Jahren, seit des Vaters Tode, ein rechter Schleef geworden
+war. Die Stiefmutter war ihm gegenüber vielleicht doch zu gut und
+weich gewesen. Hoffentlich bekam er einmal die richtige Frau, die
+noch einen ordentlichen Menschen aus ihm machte. Ob er schon auf
+Freiersfüßen ging? Ernstlich wohl noch nicht. Aber jetzt machte er
+gewiß bald Anstalten. Das half ja auch nichts; eine Frau mußte wieder
+ins Haus, die Haushälterin konnte nur für kurze Zeit ein Notbehelf
+sein.
+
+Gerd und Leidchen ... Ach ja, die armen kleinen Dinger ... Und
+so fixe, brave Kinder ... Gerd, über seine Jahre verständig und
+ernsthaft, und so ein feines kleines Mädchen wie Leidchen sollte
+man weit umher suchen. Cord Rosenbrock, der Kinder Vatersbruder und
+Vormund, wär' ein gar zu gleichgültiger Mensch, ein rechter Liekeväl,
+und würde sich wohl nicht viel um sie kümmern. Da müßten die Nachbarn
+fleißig zum Rechten sehen, das verlange die Christenpflicht, und man
+wäre es der guten Seligen auch schuldig. Ach ja, ja, ja ...
+
+Plötzlich horchten die Frauen erschrocken auf. In der Butze nebenan
+regte sich etwas, und schon wurde die Tür zurückgeschoben, und das
+kleine Mädchen kam herausgestiegen. Zitternd stand es da in seinem
+kurzen Hemdchen, sah die gestörte Kaffeegesellschaft mit den großen
+braunen Augen an und fragte: »Was macht ihr hier?«
+
+»Wir haben deine Mutter fein angekleidet,« sagte Beta Rotermund, das
+Kind an sich ziehend. »Nun trinken wir 'ne Tasse Kaffee.«
+
+»Komm mal 'n bißchen auf meinen Schoß, lüttje Deern,« sagte Meta
+Frerks und hob sie auf ihre Knie. Dann reichte sie ihr einen Streifen
+Butterkuchen, und das Kind stopfte und kaute, denn Butterkuchen
+gab's nicht jeden Tag. Darauf knabberten die kleinen Zähne ein Stück
+Kandiszucker, das Malwine aus der Dose schenkte. »Sososiso,« sagte
+Meta Frerks, »nun leg' ich unser Herzenskind wieder ins Bett, und es
+schläft süß die ganze Nacht. Huh, draußen ist's so kalt, und all die
+kleinen Piepvögel müssen so frieren. Soso, nun mach' ich die Tür zu,
+du brauchst gar nicht bange zu sein, mein' Deern, die lieben Tanten
+sollen alle hier bleiben.«
+
+Ein Weilchen ruhte die Unterhaltung. Nur Seufzer und traurige Blicke,
+von Kopfschütteln begleitet, gingen hin und her.
+
+Als das Gespräch nach und nach wieder in Gang kam, begann es freiere
+Bahnen zu wandeln. Der betrübende Fall war ja nun nach allen Seiten
+hin erörtert und erschöpft, da drängte das eigene Leben, mit seinen
+Sorgen und Leiden, Freuden und Hoffnungen, sich wieder vor. Auch des
+lieben Nächsten gedachte die mitternächtliche Kaffeegesellschaft, im
+Guten wie im Bösen. Meta Frerks, die am Tage vorher von einer Gasterei
+im unteren Dorf einen ganzen Sack voll Neuigkeiten mitgebracht hatte,
+fand für diese die aufmerksamsten Ohren; zumal, als sie von einer
+Hochzeit berichtete, die etwas plötzlich in Sicht gekommen war.
+
+So enteilten die Viertel-, halben und ganzen Stunden, bis die Wanduhr
+auf einmal fünf kurze, klirrende Schläge tat.
+
+»Kinners!« rief Beta Rotermund erschrocken, »wir müssen nun aber bald
+Feierabend machen!«
+
+Aber niemand traf Anstalten, sich zu erheben. Über den Schlaf war man
+doch einmal hinweg, es verlohnte sich auch nicht mehr, noch wieder
+ins Bett zu steigen. Draußen fror es Pickelsteine, um den warmen
+Ofen dagegen hatte die Behaglichkeit stetig zugenommen. Die Nähe der
+Toten störte diese durchaus nicht. Die gute Geschmargert war ja von
+schwerem, unheilbarem Leiden erlöst, man hatte seine Pflicht an ihr
+getan, und wenn die Gedanken noch einmal zu ihr hinübereilten, freute
+man sich im stillen, daß einem selber das liebe Leben noch nicht
+entwichen war. Sogar Anna Wöltjen war ganz menschlich geworden, und
+die junge Malwine Böschen längst aufgetaut. Diese paar Stunden hatten
+sie den Nachbarinnen näher gebracht, als die vier Monate, die sie
+unter ihnen gelebt hatte, und sie verriet ihnen, daß sie sich guter
+Hoffnung fühlte. Da sahen alle drei sie schwesterlich teilnehmend an,
+und Beta Rotermund sagte, nachdenklich vor sich hin nickend: »Ja, ja,
+so geht's zu in der Welt: der eine geht, der andere kommt.«
+
+Als sie endlich daran erinnerte, daß es Zeit würde zum Melken,
+erhoben sich alle aus dem warmen, gemütlichen Winkel. Man suchte die
+Umschlagetücher, schnackte auf dem Flett ein Weilchen im Stehen,
+stattete der still gewordenen Nachbarin noch einen stummen Besuch ab,
+bei dem sich wieder einige Seufzer lösten, und machte sich endlich auf
+den Heimweg. An den Leitstangen sich haltend, schurrten die Frauen
+vorsichtig über die glattgefrorenen schmalen Eichenbohlen der Gräben,
+und bei jedem Hause schwenkte eine mit kurzem Gutenachtgruß ab. Bei
+jedem Abschied noch einmal wieder stehenzubleiben, verbot die gar zu
+grimmige Kälte.
+
+                   *       *       *       *       *
+
+Langsam und feierlich, den hohen Hut auf dem ergrauenden Kopf und das
+Gesangbuch mit goldenem Kreuz in der schwarzbeschuhten Rechten, kam
+Herr Lenz von dem Fahrdamm auf das Trauerhaus zugeschritten.
+
+Was Geschmargret Rosenbrock die letzte Ehre erweisen wollte, war schon
+vollzählig versammelt. Das obere Dorf, bis zur Schule, war Haus für
+Haus vertreten, aber auch das untere hatte eine stattliche Anzahl zum
+Gefolge geschickt. Die Frauen saßen in den Stuben und tranken Kaffee.
+Die Männer, die meist auf der Herddiele umherstanden, ließen ein paar
+Flaschen kreisen. Diese mußten öfter als gewöhnlich aus dem irdenen
+Kruge von neuem gefüllt werden; denn die Kälte hatte noch nicht im
+geringsten nachgelassen und nur wenige waren im Besitz eines wärmenden
+Überziehers.
+
+Herr Lenz nahm in der Wohnstube ein Glas Grog an, »wegen der
+schneidenden Luft,« wie er halb entschuldigend bemerkte. Als er es
+geleert hatte, wechselte er einen Blick mit Beta Rotermund, die
+heute im Haus das Sagen hatte, strich sich den Bart und trat voll
+Würde auf die große Diele hinaus, wo er am Kopfende des über Stühlen
+aufgestellten Sarges Aufstellung nahm. Die Singjungens sammelten
+sich ihm zur Linken, den Platz an seiner Rechten wies er durch
+eine Handbewegung den Hinterbliebenen an. Aber nur die beiden
+Kinder kamen, Jan zog es vor, als weniger beteiligt, sich etwas im
+Hintergrunde zu halten. Eine Kuh, die brüllend den Kopf vorstreckte,
+bekam einen mißbilligenden Blick, woraufhin einer der umstehenden
+Männer ihr einen Stoß gegen den Hals gab.
+
+Und dann feierte Herr Lenz, nachdem er ein Sterbelied hatte
+singen lassen, die stille Frau zwischen den mit Sago beklebten
+schwarzlackierten Brettern als treue Gattin, liebevolle Mutter,
+fleißige Arbeiterin und geduldige Kreuzträgerin. Darauf wandte er
+sich halbrechts zu ihren Kindern, malte mit grellen Farben das Elend
+verlassener Waisen und tröstete, die Hand wie segnend erhoben, Gott,
+der Witwen und Waisen Vater, werde sie nicht verlassen noch versäumen.
+
+Herr Lenz liebte das große Wort und die feierliche Gebärde, und die
+Brunsoder waren stolz darauf, daß sie bei solchen Gelegenheiten keinem
+der fünfzehn Lehrer des Kirchspiels so zu Gebote standen, wie ihrem
+guten Lenz. Ja, nicht einmal der alte Pastor in Grünmoor konnte es so
+rührend machen und die Tränen so locken wie er. Diese flossen denn
+auch jetzt gar reichlich. In diesem Lande, wo das Wasser überall rinnt
+und sickert, sitzt es auch über den Augen recht lose.
+
+Gerd aber stand mit trockenen Augen, den Kopf auf die Brust gesenkt
+und die Hände über der Mütze gefaltet. Er hatte sich in der Stille
+der letzten Tage ausgeweint, und daß er vom Lehrer, den er im Grunde
+nicht liebte, zum Gegenstand des allgemeinen Mitleids gemacht wurde,
+berührte ihn peinlich.
+
+Das kleine Mädchen verstand von all den schallenden Worten so gut wie
+nichts. Das feierliche Gepränge an der Stätte, wo sie zu Füßen der
+Mutter mit Polli, Musch und Poppedeidei gespielt hatte, bedrückte und
+verwirrte ihren kindlichen Geist. Im roten Sonntagskleidchen stand
+sie an des Bruders Seite und sah aus der dunkelblauen Wollkapuze,
+die ihr feines Gesichtchen umrahmte, mit den großen, unschuldigen,
+lichtbraunen Augen verwundert zu den schwarzen Menschen auf, die so
+todernste Mienen zeigten oder sich im Gesicht herumwischten. Eine
+Zeitlang lenkte ein schmaler Lichtstreif, der hell und warm auf dem
+Kinde lag, manchen still verwunderten Blick nach ihm hin. Denn solche
+Lieblichkeit und Frische erblüht nur selten unter dem hart arbeitenden
+Geschlecht des schwarzbraunen Moorlandes.
+
+Als der Wagen in den zerfahrenen und gefrorenen Gleisen des Dammes
+knarrte, saß Leidchen eng und warm verpackt zwischen zwei Frauen,
+und ihre Blicke wanderten über den Sarg vor ihren Knien in die Welt
+hinaus, die mit Hochmooren, Ackerbreiten, Wiesen und Reihendörfern im
+schönsten Wintersonnenglanze sich vor ihr dehnte. Es war ihre erste
+Fahrt, von der allerersten im Steckkissen, zur Taufe, abgesehen. Gerd
+schritt indessen, die frierenden Hände in den Jackentaschen vergraben,
+als einziger unmittelbar hinter dem Wagen; denn das Gefolge hatte sich
+schnell in Gruppen aufgelöst, die nach und nach zurückblieben und den
+anderthalbstündigen Weg durch Unterhaltung zu kürzen suchten.
+
+Das ausgedehnte Kirchspiel Grünmoor hatte nur eine einzige sandige
+Bodenerhebung, die es gestattet, den Toten aus den achtzehn Kolonien
+trockene Ruhestätten zu geben. Hier ist darum auch um das schlichte,
+den ersten Ansiedlern vom Landesherrn geschenkte Gotteshaus der
+geräumige Friedhof angelegt worden. In seiner Anlage und Aufteilung
+zeigt er ein ziemlich getreues Bild der Gemeinde im kleinen. Den
+langen Reihendörfern entsprechen hier die Reihen der Erbbegräbnisse.
+Die im Leben Nachbarn waren, werden es im Tode wieder. Die
+Rosenbrocks, Rotermunds, Frerks, Wöltjens und Böschens wohnen auch
+hier freundnachbarlich beieinander.
+
+Die zunehmende Wohlhabenheit einzelner Moordörfer zeigt sich hier und
+da in unschönen protzigen Denkmälern aus Zementguß. Die Kolonisten
+der ärmeren Dörfer, zu denen auch Brunsode gehört, setzen wohl
+einmal ein Kreuz aus Tannenholz, das in wenig Jahren zerfällt; im
+übrigen begnügen sie sich mit dem grünen Schmuck, den die Natur ihren
+Ruhestätten verliehen hat.
+
+Das Rosenbrocksche Erbbegräbnis bezeichnet ein hochragender
+dunkelgrüner Wacholder. Der erste Brunsoder Rosenbrock hatte den Baum,
+der heute als einer der stattlichsten des Friedhofs in winterlichem
+Prachtgeschmeide funkelte, vor mehr als hundert Jahren von den
+Heiden seiner Geestheimat ins Moor herabgeholt, um ihn seiner jung
+verstorbenen Frau zum Gedächtnis zu pflanzen. Zu seinen Füßen hatte
+des Totengräbers Hacke, Axt und Spaten in mehrstündiger Arbeit das
+hart und tief gefrorene Erdreich geöffnet.
+
+Nachbar Wöltjen, der tappige Mensch, stach beim Schließen des Grabes
+nicht wie die andern nach dem losen Sande, sondern ließ die gefrorenen
+Erdklumpen auf den Sargdeckel poltern. Da schmiegte sich die Schwester
+unwillkürlich enger an den Bruder, und der legte wie schützend den Arm
+um sie.
+
+So fand Geschmargret Rosenbrock ihre Ruhe, im Schatten des ehrwürdigen
+Wacholderbaumes, dem Staube der andern gesellt, die vor ihr in
+Brunsode auf Stelle Nr. 40 sich müde gearbeitet und schlafen gelegt
+hatten. Die Kinder aber, denen sie das Leben geschenkt, sollten sich
+nun allein ihren Weg suchen. Den Weg durch das bunte und schöne, wilde
+und wirre, ernste und große Leben.
+
+
+
+
+                                  2.
+
+
+Vor der Brunsoder Schuljugend stand ein neuer Mann. Er war an der
+Weserkante zu Hause, kam frisch vom Seminar in Bederkesa, und die
+Kinder mußten ihn Herr Timmermann nennen.
+
+Der junge Schulmann, noch in der ersten Begeisterung für seinen
+Beruf glühend, strengte die Stimme mehr als nötig an, war darauf
+bedacht, seine lang aufgeschossene Gestalt straff zu halten und gab
+sich redliche Mühe, aus den sanft blauen Augen energische Blicke
+zu schießen. Der rote Binsenarmstuhl, den sein wegen Kränklichkeit
+pensionierter Vorgänger schwarz und blank gesessen hatte, war für ihn
+nicht vorhanden, und dessen Schaubühne auf dem Fahrdamm hatte er noch
+nicht einmal entdeckt.
+
+Aber heute ließ Herr Otto Timmermann doch des öfteren den Blick
+halbrechts über die Kinderköpfe zum Fenster hinausschweifen, jedoch
+weniger neugierig als träumerisch froh. Denn dort draußen war etwas
+sehr Hübsches zu sehen. Wo tagelang ein ödes, schweres Nebelgrau
+gedrückt hatte, da war heute auf einmal ein weißes, weiches, molliges
+Schweben. Der erste Schnee kam sachte zur Erde nieder, in so großen
+Flocken, wie der junge Mann sich nicht erinnerte, sie je gesehen zu
+haben, und so wunderbar weiß, daß die schönen glatten Birkenstämme
+drüben auf einmal schmutziggrau dagegen erschienen.
+
+Herr Timmermann rieb sich voll Behagen die Hände. Nach den
+Jahren des kasernenartigen Seminarlebens zum erstenmal im
+eigenen Heim einzuschneien, so recht tief einzuschneien, mit dem
+Lieblingsschwesterchen, das ihm Haus hielt, und mit seinen Kindern,
+an denen er die mit redlichem Fleiß erworbenen pädagogischen Künste
+erproben sollte -- er war der Mann danach, um so etwas zu schätzen.
+
+Es traf sich gut, daß er sein Völkchen gerade nicht in allerhand
+Fernen und Höhen zu entführen brauchte. Der Stundenplan, der,
+säuberlich geschrieben, unter Glas und Rahmen an der Wand hing,
+schrieb nämlich Heimatkunde vor, und der junge Lehrer hatte am Abend
+vorher die Moorkolonie Brunsode, nachdem er ihre Belegenheit auf
+nachmittäglichen Spaziergängen erkundet, mit ihren Gehöften, Dämmen
+und Gräben fein rechtwinkelig und geradlinig, wie der Königliche
+Moorkommissarius Jürgen Christian Findorf sie vor vier Menschenaltern
+angelegt hatte, auf die Wandtafel gezeichnet. Dabei hatte er
+eigentlich nur an die jüngeren Jahrgänge gedacht, aber auch die Großen
+zeigten für das Kunstwerk seines Kreidestifts solches Interesse,
+daß er sie gern teilnehmen ließ und die Gelegenheit benutzte,
+ihnen den Unterschied zwischen den uralten, aus sagenhaftem Dunkel
+herüberkommenden Siedelungen der Geest und den jungen, künstlich und
+planmäßig angelegten Moork
