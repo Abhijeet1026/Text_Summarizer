@@ -92,7 +92,8 @@ Create an API key from the Anthropic Console and export it as an environment var
 
 📂 Project Structure
 
-```project/
+```
+project/
 │
 ├── text_extractor.py      # Extracts and cleans text
 ├── summarizer.py          # Summarizes text using Claude API
